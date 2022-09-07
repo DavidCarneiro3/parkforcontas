@@ -1,0 +1,26 @@
+{
+    "name": "marquesjuniorpalmas/webservice-banco-brasil",
+    "description": "Integração completa com o sistema de cobrança do banco do brasil",
+    "keywords": ["boleto", "bb", "financeiro", "banco do brasil", "webservice"],
+    "homepage": "https://github.com/marquesjuniorpalmas/webservice-banco-brasil",
+    "license": "MIT",
+    "version": "1.0.5",
+    "authors": [
+        {
+            "name": "Marques Junior",
+            "email": "junioralphasistemas@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "email": "junioralphasistemas@gmail.com"
+    },
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "MarquesJunior\\BancoBrasil\\": "src/"
+        }
+    }
+}

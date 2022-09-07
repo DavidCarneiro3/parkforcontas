@@ -1,0 +1,5 @@
+{
+    "require": {
+        "marquesjuniorpalmas/webservice-banco-brasil": "^1.0"
+    }
+}
